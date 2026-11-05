@@ -14,7 +14,7 @@
 		C33268A9309D14E10096C060 /* Exceptions for "AuraTune" folder in "AuraTune" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
-				Info.plist,
+				IOS/Info.plist,
 			);
 			target = C3326896309D14E00096C060 /* AuraTune */;
 		};
