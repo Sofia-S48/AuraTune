@@ -1,0 +1,19 @@
+//
+//  ViewController.swift
+//  AuraTune
+//
+//  Created by sofia Saldumbide on 2026-11-05.
+//
+
+import UIKit
+
+class ViewController: UIViewController {
+
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        // Do any additional setup after loading the view.
+    }
+
+
+}
+
